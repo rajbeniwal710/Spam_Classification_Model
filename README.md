@@ -1,2 +1,2 @@
-# Spam_Collection_Model
+# Spam_Classification_Model
 NLP based Spam Classification Model
