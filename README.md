@@ -8,7 +8,7 @@ Natural Language processing is a field concerned with the ability of the compute
 4. Sentence Segmentation or part-of-speech tagging
 
 Common libraries used for NLP:
--NLTK 
--re
--string
+- NLTK 
+- re
+- string
 
