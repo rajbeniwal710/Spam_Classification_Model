@@ -7,8 +7,9 @@ Natural Language processing is a field concerned with the ability of the compute
 3. Text Classification
 4. Sentence Segmentation or part-of-speech tagging
 
-Common libraries used for NLP:
-- NLTK 
-- re
-- string
+**word2vec** is a shallow two-layer neural network that accepts a text corpus as an input, and that it returns a set of vectors(also known as embedding); where each vector is representation of a given word.
+
+**doc2vec** is a shallow two-layer neural network that accepts a text corpus as an input, and it return a set of vectors(embedding); where each vector is a representation of a given sentence, paragraph or document.
+
+
 
